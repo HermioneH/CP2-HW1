@@ -14,6 +14,7 @@ recreation
 3. simulation:
 ojbect with the height created based on the received sound pitch with time.
 distance travel
+character pisition
 4. events:
 when the character gets in the gap, game over
 when the character hit the fraise, game over
