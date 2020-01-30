@@ -2,23 +2,35 @@ One Hand Clapping
 1. Data: 
 sound (counted by pitch) with time. 
 keyboard press "blank", "left" and "right"
+recreate action
 2. render: 
 floor 
 fraise
+character
 gap (cause to die)
+recreation
 3. simulation:
 ojbect with the height created based on the received sound pitch with time.
 distance travel
 4. events:
-
+when the character gets in the gap, game over
+when the character hit the fraise, game over
+the longer trip the character make, the more difficult the game is (gap and speed)
 
 Magic Mirror
 1. Data: 
  cloth choice file (3D)
  User body file (3D) 
+ email address
+ 
 2. render: 
 the fitting stage
+
 3. simulation:
 the cloth transform to the user avialable for different angel
 suggestion of cloth 
+GR Code
+4. events:
+when press the cloth you chose, it appears on your body
+when you are interested in the cloth you chose and press save, the QR code will appears
 
