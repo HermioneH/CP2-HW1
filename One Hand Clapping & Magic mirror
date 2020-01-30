@@ -1,0 +1,15 @@
+One Hand Clapping
+1. Data: 
+sound (counted by pitch) with time. 
+keyboard press "blank", "left" and "right"
+2. render: 
+ojbect with the height created based on the received sound pitch with time.
+the distance of 
+3. simulation:
+4. events:
+the 
+
+Magic Mirror
+1. Data: catched by the cloth choice
+2. render: the cloth transform to the 
+
