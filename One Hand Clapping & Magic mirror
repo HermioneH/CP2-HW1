@@ -3,13 +3,22 @@ One Hand Clapping
 sound (counted by pitch) with time. 
 keyboard press "blank", "left" and "right"
 2. render: 
-ojbect with the height created based on the received sound pitch with time.
-the distance of 
+floor 
+fraise
+gap (cause to die)
 3. simulation:
+ojbect with the height created based on the received sound pitch with time.
+distance travel
 4. events:
-the 
+
 
 Magic Mirror
-1. Data: catched by the cloth choice
-2. render: the cloth transform to the 
+1. Data: 
+ cloth choice file (3D)
+ User body file (3D) 
+2. render: 
+the fitting stage
+3. simulation:
+the cloth transform to the user avialable for different angel
+suggestion of cloth 
 
