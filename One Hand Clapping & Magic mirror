@@ -3,8 +3,10 @@ One Hand Clapping
 sound (counted by pitch) with time. 
 keyboard press "blank", "left" and "right"
 recreate action
+character position
 2. render: 
 floor 
+color
 fraise
 character
 gap (cause to die)
